@@ -19,14 +19,3 @@ A clean, fast, and modern YouTube channel analytics dashboard built with Next.js
 - **Charts:** [Recharts](https://recharts.org/)
 - **API:** YouTube Data API v3
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally on your machine.
-
-### Prerequisites
-You will need [Node.js](https://nodejs.org/) installed and a Google Cloud account to generate a YouTube API Key.
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/tube-metrics.git](https://github.com/YOUR_GITHUB_USERNAME/tube-metrics.git)
-cd tube-metrics
